@@ -32,8 +32,8 @@ return require('packer').startup(function()
   -- colorschemes
   -- use 'christianchiarulli/nvcode-color-schemes.vim'
   use 'navarasu/onedark.nvim'
-  use 'arcticicestudio/nord-vim'
-  use 'EdenEast/nightfox.nvim'
+  -- use 'arcticicestudio/nord-vim'
+  -- use 'EdenEast/nightfox.nvim'
 
 
   -- Treesitter
