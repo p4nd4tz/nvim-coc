@@ -1,6 +1,8 @@
 # neovim-coc
 This neovim has coc plugin instead of native lsp configured.
-And configured in lua programming language.
+And has minimum required plugins (no bloats). Does not have any git integration and vim-which-key .
+All key binding could be found easily in ' keybindings.lua' file and respective plugin config( if any)
+All Configured in lua programming language.
 
 ## why not lsp
 cause i was not able not configured it perfectly and
