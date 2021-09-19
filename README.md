@@ -11,7 +11,7 @@ do install anything with
 :CocInstall <extensions>
 ```
 
-One main thing to like about it "Coc is easy to configure inplace of lsp"
+One main thing to like about it ```Coc is easy to configure inplace of lsp```
 
 ## installation
 Clone this repo first.
