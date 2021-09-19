@@ -13,6 +13,12 @@ do install anything with
 
 One main thing to like about it ```Coc is easy to configure inplace of lsp```
 
+<p align="center">
+  <img src="./shot 1.png" width="350" title="shot 1">
+  <img src="./shot 2.png" width="350" alt="shot 2">
+</p>
+
+
 ## installation
 Clone this repo first.
 ```
@@ -25,6 +31,7 @@ open nvim and run ```:PackerSync```
 ## coc plugin overview
 Coc help in same manner that native lsp does
 install different language server protocol(Lsp) like VsCode.
+Check it out here ```https://github.com/neoclide/coc.nvim```
 
 ### how to exensions
 Open you neovim and install any exension with
