@@ -14,7 +14,6 @@ do install anything with
 One main thing to like about it ```Coc is easy to configure inplace of lsp```
 
 ## Shots
-![Screenshot]("shot 1.png")
 
 <p align="center">
   <img src="./shot 1.png" width="350" height="300" title="shot 1">
