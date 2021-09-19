@@ -15,8 +15,8 @@ One main thing to like about it ```Coc is easy to configure inplace of lsp```
 
 ## Shots
 <p align="center">
-  <img src="./shot 1.png" width="350" height="200" title="shot 1">
-  <img src="./shot 2.png" width="350" height="200" alt="shot 2">
+  <img src="./shot 1.png" width="350" height="350" title="shot 1">
+  <img src="./shot 2.png" width="350" height="350" alt="shot 2">
 </p>
 
 
