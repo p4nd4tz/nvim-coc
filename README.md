@@ -42,7 +42,7 @@ Coc help in same manner that native lsp does
 install different language server protocol(Lsp) like VsCode.
 Check it out here `https://github.com/neoclide/coc.nvim`
 
-### how to exensions
+### how to install exensions
 
 Open you neovim and install any exension with
 
