@@ -1,19 +1,22 @@
 # neovim-coc
+
 This neovim has coc plugin instead of native lsp configured.
 And has minimum required plugins (no bloats). Does not have any git integration and vim-which-key .
-All key binding could be found easily in ' keybindings.lua' file and respective plugin config( if any)
+All key binding could be found easily in ' keybindings.lua' file and in respective plugin config( if any).
 All Configured in lua programming language.
 
 ## why not lsp
+
 cause i was not able not configured it perfectly and
 it required extra plugins like of 'snippets', ' autocompletion' and many more.
 Coc does not require such thing just install plugins and
 do install anything with
+
 ```
 :CocInstall <extensions>
 ```
 
-One main thing to like about it ```Coc is easy to configure inplace of lsp```
+One main thing to like about it `Coc is easy to configure inplace of lsp`
 
 ## Shots
 
@@ -22,41 +25,49 @@ One main thing to like about it ```Coc is easy to configure inplace of lsp```
   <img src="./shot 2.png" width="350" height="300" alt="shot 2">
 </p>
 
-
 ## installation
+
 Clone this repo first.
+
 ```
 git clone https://github.com/Abhishek416/nvim-coc.git
 ```
 
-Copy it to ```.config/nvim/```
-open nvim and run ```:PackerSync```
+Copy it to `.config/nvim/`
+open nvim and run `:PackerSync`
 
 ## coc plugin overview
+
 Coc help in same manner that native lsp does
 install different language server protocol(Lsp) like VsCode.
-Check it out here ```https://github.com/neoclide/coc.nvim```
+Check it out here `https://github.com/neoclide/coc.nvim`
 
 ### how to exensions
+
 Open you neovim and install any exension with
+
 ```
 :CocInstall <extension>
 ```
-Example : ```:CocInstall coc-html coc-emmet coc-pyright```
+
+Example : `:CocInstall coc-html coc-emmet coc-pyright`
 
 ### view available extensions
+
 Install coc-marketplace first with
+
 ```
 :CocInstall coc-marketplace
 ```
 
 Then see available extension you could install with
+
 ```
 :CocList marketplace
 ```
 
 view installed extensions
+
 ```
 :CocList extensions
 ```
-
